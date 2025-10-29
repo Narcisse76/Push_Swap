@@ -27,7 +27,7 @@ Gestion des erreurs et des entrées invalides
 
 🔧 Compilation Make
 
-`make` → compile les exécutables push_swap et checker
+`make` → compile les exécutables push_swap
 
 `make clean` → supprime les fichiers `.o`
 
@@ -48,5 +48,3 @@ Le projet renforce la rigueur, la planification et la stratégie, des compétenc
 
 Créer un programme capable de trier efficacement une série d’entiers avec un nombre limité d’instructions.
 L’objectif est de maîtriser les structures de données et l’optimisation algorithmique, et de se préparer aux projets plus avancés nécessitant réflexion, stratégie et performance.
-
-Si tu veux, je peux maintenant te faire la version allégée de README pour tous tes autres projets 42 dans ce même style uniforme. Veux‑tu que je fasse ça ?
