@@ -1,5 +1,8 @@
 # 📦 Push_swap - Tri d’entiers optimisé
 
+<img width="198" height="169" alt="image" src="https://github.com/user-attachments/assets/3e79287b-98a7-4038-bac4-8fcff6b895e6" />
+
+
 Le projet Push_swap consiste à créer un programme capable de trier une série d’entiers en utilisant uniquement un ensemble limité d’instructions sur deux piles (stack_a et stack_b).
 Il permet de comprendre les algorithmes de tri, la manipulation de structures de données, et de développer des stratégies pour minimiser le nombre d’opérations.
 
